@@ -46,7 +46,7 @@ jira:
  parameters:
    type: existing
    project_key: "PHPBB"
-   api_url: "https://issues.apache.org/jira"
+   api_url: "https://tracker.phpbb.com/secure/jira"
 
 
 # Pipelines
